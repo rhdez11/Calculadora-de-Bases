@@ -4,4 +4,4 @@ Se creo una interfaz para poder facilitar el calculo de operaciones simples entr
 
 Para poder lograr el objetivo se utilizo el paradigma de programacion Abstract Factory
 
-![Calculadora de Bases](/CalculadoraBases.PNG)
+![Calculadora de Bases](/CalculadoraBases.PNG = 250x)
